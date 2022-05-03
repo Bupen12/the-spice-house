@@ -115,21 +115,48 @@ h1, h2 {
 #about-us {
     height: 600px;
     text-align: left;
+    background-color: beige;
    
 }
 
 #about-us-heading {
     margin-left: 30px;
 }
+
+
 #about-text {
     padding-top: 30px;
-    width: 33%;
+    width: 50%;
     height: 40%;
     float: left;
     text-align: left;
     margin-left: 30px;
     
 }
+#right-about {
+    padding-top: 30px;
+}
+
+footer {
+    height: 150px;
+
+
+}
+
+.social-networks {
+    text-align: center;
+}
+.social-networks > li {
+display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
+}
+
 
 
 
