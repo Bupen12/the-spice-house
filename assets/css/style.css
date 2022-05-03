@@ -54,7 +54,16 @@ h1, h2 {
    height: 600px;
     width: 100%;
     overflow: hidden;
+
+    position: relative;
 }
+
+#cover-text, #cover-text h2 {
+    color: #0a0a0a;
+    padding-left: 10px;
+
+}
+
 #hero-image {
    
     background: url('../images/Spices.jpg') no-repeat center center ;
@@ -78,6 +87,31 @@ h1, h2 {
     to{
         transform: scale(1.1);
 }
+}
+
+#cover-text {
+    font-size: 130%;
+    font-family: Quicksand, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+   color: #0a0a0a;
+    width: 600px;
+    height: 100px;
+    
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+    background-color: rgba(162, 210, 238, 0.7);
+
+    bottom: 30px;
+    right: 150px;
+    position: absolute;
+    text-align: center;
+
+    
+
+
 }
 
 
