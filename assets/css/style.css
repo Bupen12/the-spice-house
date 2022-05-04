@@ -115,7 +115,7 @@ h1, h2 {
 }
 
 #about-us {
-    height: 600px;
+    height: 300px;
     background-color: rgb(255, 255, 255);
     width: 100%;
     margin-top: 30px;
@@ -138,18 +138,49 @@ h1, h2 {
 }
 
 footer {
-    height: 150px;
+    height: 100px;
 }
     #find-us {
 
-        background-color: #ee8711;
+        background-color: #ff8800;
        
         width: 100%;
         text-align: center;
        font-family: Quicksand,sans-serif;
        margin-left: 30px;
+       
     
     }
+    #find-us h2 {
+        font-weight: bold;
+    }
+
+    #about-image1 {
+        float: left;
+       margin-top: 30px;
+       width: 33%;
+       height: 100px;
+      
+        
+        
+          }
+
+          #about-image2 {
+            float: right;
+           margin-top: 30px;
+           width: 33%;
+           height: 100px;
+           
+} 
+
+#about-image3 {
+   margin:0 auto;
+   width: 33%;
+   margin-top: 30px;
+   height: 100px;
+   
+
+        
        
 
 
