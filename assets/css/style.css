@@ -109,30 +109,30 @@ h1, h2 {
     right: 150px;
     position: absolute;
     text-align: center;
+    margin-top: 30px;
 
 }
 
 #about-us {
     height: 600px;
-    text-align: left;
-    background-color: beige;
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    margin-top: 30px;
+    border-bottom: #f16c6b;
+    margin-left: 30px;
     text-align: center;
+   
+   
     
    
 }
 
-
-
-
-
 #about-text {
     float: left;
     text-align: left;
-   
-}
-
-
-   
+   line-height: 20px;
+   margin-top: 30px;
+  
 }
 
 footer {
@@ -159,18 +159,20 @@ display: inline;
     background-color: #3a3a3a;
     background-size: cover;
     background-position: center;
-    height: 900px;
-    
+    height: 600px;
+    margin-left: 30px;
+    width: 33%;
+    padding-left: 30px;
 
 }
 .contact-us-form {
     margin: 150px 10% 0 0;
     color: rgb(255, 255, 255);
     background-color: rgba(197, 49, 49, 0.6);
-    max-width: 500px;
+    max-width: 250px;
     position: absolute;
-    left: 10%;
     padding: 30px;
+    left: 40px;
 }
 .signup-form h2 {
     color: #fafafa;
