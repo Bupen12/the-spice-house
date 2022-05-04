@@ -74,6 +74,7 @@ h1, h2 {
     animation-name: hero-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
+
     
     }
 
@@ -132,14 +133,27 @@ h1, h2 {
     text-align: left;
    line-height: 20px;
    margin-top: 30px;
+   margin-left: 30px;
   
 }
 
 footer {
     height: 150px;
-
-
 }
+    #find-us {
+
+        background-color: #ee8711;
+       
+        width: 100%;
+        text-align: center;
+       font-family: Quicksand,sans-serif;
+       margin-left: 30px;
+    
+    }
+       
+
+
+
 
 .social-networks {
     text-align: center;
@@ -161,7 +175,7 @@ display: inline;
     background-position: center;
     height: 600px;
     margin-left: 30px;
-    width: 33%;
+    width: 100%;
     padding-left: 30px;
 
 }
@@ -174,6 +188,7 @@ display: inline;
     padding: 30px;
     left: 40px;
 }
+
 .signup-form h2 {
     color: #fafafa;
     margin-bottom: 20px;
