@@ -277,6 +277,7 @@ footer {
 .menu {
     font-family: sans-serif;
     font-size: 14px;
+    
 
 }
 .menu-group-heading {
@@ -289,4 +290,50 @@ footer {
     grid-template-columns: 1fr;
     gap: 1.5em;
     padding: 1.5em 0;
+}
+.menu-item {
+    display: flex;
+}
+.menu-item-image {
+    width: 80px;
+    height: 80px;
+    flex-shrink: 0;
+    object-fit: cover;
+    margin-right: 1.5em;
+}
+.menu-item-text {
+    flex-grow: 1;
+}
+.menu-item-heading {
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+}
+.menu-item-name {
+   margin-right: 1.5em;
+}
+.menu-item-description {
+    line-height: 1.6;
+}
+
+
+
+
+@media screen and (min-width:992px) {
+   
+
+.menu-item-image {
+    width: 80px;
+    height: 80px;
+}
+.menu {
+    font-family: sans-serif;
+    font-size: 16px;
+}
+.menu-group {
+    grid-template-columns: repeat(2, 1fr);
+}
+.menu-item-image {
+    width: 125px;
+    height: 125px;
 }
