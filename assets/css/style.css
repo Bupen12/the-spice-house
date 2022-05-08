@@ -209,24 +209,33 @@ footer {
 
 .form-section {
     clear: left;
-    background-color: #3a3a3a;
     background-size: cover;
-    background-position: center;
     height: 600px;
     margin-left: 30px;
     width: 100%;
     
 
 }
+.contact-us-container {
+    margin-top: 300px;
+    background: #ff8800;
+    height: 600px;
+    width: 50%;
+    margin-left: 400px;
+    padding-top: 30px;
+    padding-left: 30px;
+    text-align: center;
+ 
+}
 
 .contact-us-form {
-    margin: 150px 10% 0 0;
+
     color: rgb(255, 255, 255);
     background-color: rgba(255, 57, 57, 0.6);
     max-width: 450px;
-    position: absolute;
     padding: 30px;
    margin-left: 700px;
+   position: absolute;
 }
 
 #contact-us {
@@ -269,6 +278,7 @@ footer {
     background-color: #fafafa;
     color: #f16c6b;
 }
+
 .container {
     max-width: 1200px;
     margin: 0 auto;
