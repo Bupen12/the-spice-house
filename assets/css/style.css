@@ -215,37 +215,33 @@ footer {
     width: 100%;
     
 
+
 }
-.contact-us-container {
-    margin-top: 300px;
-    background: #ff8800;
-    height: 600px;
-    width: 50%;
-    margin-left: 400px;
-    padding-top: 30px;
-    padding-left: 30px;
-    text-align: center;
- 
+#contact-us {
+    margin-bottom: 30px;
+    color:#fafafa
 }
 
 .contact-us-form {
 
     color: rgb(255, 255, 255);
-    background-color: rgba(255, 57, 57, 0.6);
-    max-width: 450px;
+    max-width: 550px;
     padding: 30px;
-   margin-left: 700px;
+   
+    margin-left: 650px;
+   margin-top: 100px;
+   
    position: absolute;
+   width: 100%;
+   background: #3a3a3a;
 }
 
-#contact-us {
-    margin-bottom: 20px;
-    color: rgb(255, 255, 255);
-}
+
 
 .signup-form h2 {
     color: #fafafa;
     margin-bottom: 20px;
+
   
 }
 
@@ -272,9 +268,10 @@ footer {
     background-color: #f16c6b;
     color: #fafafa;
     display: block;
+
 }
 
-.join-button:hover {
+.submit-button:hover {
     background-color: #fafafa;
     color: #f16c6b;
 }
