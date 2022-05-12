@@ -155,22 +155,27 @@ footer {
     height: 100px;
 }
 
-#find-us {
+.find-us {
 
-    background-color: #ff8800;
-
+    background-color: #2c3031;
     width: 100%;
     text-align: center;
     font-family: Quicksand, sans-serif;
-    margin-left: 30px;
-
+   
+    padding: 20px;
+color: #ffffff;
 
 }
 
-#find-us h2 {
+.find-us h2 {
     font-weight: bold;
 }
 
+.find-us-contents {
+   
+    margin-left: 500px;
+    text-align: center;
+}
 #circle-container {
     width: 300px;
     height: 300px;
@@ -326,9 +331,9 @@ footer {
 
 
 
-@media screen and (min-width:992px) {
+@media screen and (max-width:980px) {
    
-
+}
 .menu-item-image {
     width: 80px;
     height: 80px;
@@ -344,3 +349,16 @@ footer {
     width: 125px;
     height: 125px;
 }
+#contact-us {
+    float: left;
+}
+.form-section {
+    float: left;
+}
+.contact-us-form {
+    float: left;
+    clear: both;
+    text-align: left;
+}
+    
+
