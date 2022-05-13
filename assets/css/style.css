@@ -348,9 +348,9 @@ h1 {
 
 
 
-@media screen and (max-width:980px) {
+@media screen and (min-width:500px) {
    
-}
+
 .menu-item-image {
     width: 80px;
     height: 80px;
@@ -366,16 +366,14 @@ h1 {
     width: 125px;
     height: 125px;
 }
-#contact-us {
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+    padding: 30px;
+}
+#logo {
+    line-height: 75px;
     float: left;
 }
-.form-section {
-    float: left;
 }
-.contact-us-form {
-    float: left;
-    clear: both;
-    text-align: left;
-}
-    
 
