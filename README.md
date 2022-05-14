@@ -7,13 +7,13 @@ Users on the website will be able to learn a little about Indian cuisine and see
 Responsive view
 
 ## Features
-Navigation
-Functions to clearly display the restaurant name and allow access to all pages in the website.
-Located at the top of the page  so that it can easily be accessed even visitin the other pages on website.
-An easy to read 'Quicksand' font is used. The font and background colors provide sufficient contrast.
-The bold logo is positioned to the left and acts as a link to easily return to the homepage.
-Links to other pages are located on the right and include: Home, Menu and Contact Us.
-The active page is underlined as a reference and links have a underline hover effect.
+- Navigation
+    - Functions to clearly display the restaurant name and allow access to all pages in the website.
+    - Located at the top of the page  so that it can easily be accessed even   visiting the other pages on website.
+      An easy to read 'Quicksand' font is used. The font and background colors provide sufficient contrast.
+    - The bold logo is positioned to the left and acts as a link to easily return to the homepage.
+    - Links to other pages are located on the right and include: Home, Menu and Contact Us.
+    - The active page is underlined as a reference and links have a underline hover effect.
 - The Main Image Section
     - Background image of spices shows the goodness and quality of Indian food available at the restaurant.
     - The heading 'Authentic Indian Restaurant in westport' shows the function and aim of the restaurant to users.
@@ -24,4 +24,8 @@ The active page is underlined as a reference and links have a underline hover ef
     - Text is used to explain more detail about the food, culture and experience at the restaurant.
     - Images are used to clearly represent the type an quality of food avilable.
   ![About Us Image Section](/assets/images/about%20us%20section%20screenshot.png)  
-
+- Footer Section
+    - Contains contact information  so they can be easily found by users whilst on any page.
+    - Social media links encourage users to find out more about the restaurant.
+    - Links open in new tabs to provide a good user experience.
+    
