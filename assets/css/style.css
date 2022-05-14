@@ -28,6 +28,8 @@ h2 {
     float: left;
     font-size: 200%;
     margin-left: 30px;
+    margin-top: 20px;
+    
   
     
 }
@@ -41,6 +43,7 @@ h2 {
 #menu,
 #logo {
     line-height: 50px;
+    
 }
 
 #menu li {
@@ -160,11 +163,10 @@ footer {
 .find-us {
 
     background-color: #2c3031;
-    
     font-family: Quicksand, sans-serif;
-   
-    padding: 20px;
-color: #ffffff;
+    color: #ffffff;
+    text-align: center;
+  
 
 }
 
@@ -312,14 +314,19 @@ h1 {
 }
 .menu-group-heading {
     margin: 0;
-    padding-bottom: 1em;
+    padding-bottom: 2em;
     border-bottom: 2px solid #ccc;
+    padding-top: 3em;
+}
+.menu-group-heading-menus {
+    margin: 0;
 }
 .menu-group {
     display: grid;
     grid-template-columns: 1fr;
     gap: 1.5em;
     padding: 1.5em 0;
+    
 }
 .menu-item {
     display: flex;
@@ -349,7 +356,7 @@ h1 {
 
 
 
-@media omly screen and (max-width:992px) {
+@media screen and (max-width:992px) {
    
 
     .menu-item-image {
