@@ -2,7 +2,7 @@
 The Spice house website acts to advertise a Indian restaurant by providing information about Indian food. The website aims to attract lovers of Indian food, as well as encourage people who have never tried the cuisine before.
 
 Users on the website will be able to learn a little about Indian cuisine and see what meals are available at the restaurant. They are also able to find relevant contact information.
-![The Spice House Screenshot](https://user-images.githubusercontent.com/101188834/168256256-099f51e0-5304-4bf1-b637-59b53da472a4.png)
+![The Spice House Screenshot](assets/images/The%20Spice%20House%20Screenshot.png)
 
 Responsive view
 
@@ -17,9 +17,9 @@ The active page is underlined as a reference and links have a underline hover ef
 
 
 
-- The Main Image Section
+![Main Image Section](/assets/images/Homepage.png)
     - Background image of spices shows the goodness and quality of Indian food available at the restaurant.
     - The heading 'Authentic Indian Restaurant in westport' shows the function and aim of the restaurant to users.
 
 
-Home page Image  ![Spices](https://user-images.githubusercontent.com/101188834/168265127-a1eaf4ed-389d-44cd-ac85-01548d6d52d1.jpg)
+Home page Image  ![Spices](http
