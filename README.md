@@ -23,9 +23,24 @@ Responsive view
     - This Section aims to give an insight into the diffrent foods on offer at the restaurant.
     - Text is used to explain more detail about the food, culture and experience at the restaurant.
     - Images are used to clearly represent the type an quality of food avilable.
+  
   ![About Us Image Section](/assets/images/about%20us%20section%20screenshot.png)  
+
 - Footer Section
     - Contains contact information  so they can be easily found by users whilst on any page.
     - Social media links encourage users to find out more about the restaurant.
     - Links open in new tabs to provide a good user experience.
-    
+    ![Footer section image](/assets/images/footer%20screenshot%201.png)
+
+- Contact Page 
+    - This page provides the restaurant's address, phone number and email address for customers to contact.
+    - This page also provides contact us form.
+ ![Contact Page](/assets/images/Contact%20us%20page%20screenshot.png) 
+
+ - Menu Page 
+    - The menu page aims to advertise a selection of dishes at the restaurant and raise interest.
+    - Images were used along with a description to illustrate the quality of food available at its price.
+    - grid and flexbox used to create menu page.  
+
+    ![Menu Page](/assets/images/Menu%20page%20screenshot%20.png)
+   
