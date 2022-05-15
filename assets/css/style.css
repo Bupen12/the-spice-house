@@ -26,23 +26,22 @@ h2 {
 
 #logo {
     float: left;
-    font-size: 200%;
-    margin-left: 30px;
-    margin-top: 20px;
-    
-  
-    
+    font-size: 280%;
+   margin: 10px;
+
 }
 
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
+    
+   
    
 }
 
 #menu,
 #logo {
-    line-height: 50px;
+    line-height: 75px;
     
 }
 
@@ -166,12 +165,15 @@ footer {
     font-family: Quicksand, sans-serif;
     color: #ffffff;
     text-align: center;
+    padding: 30px;
+    width: 100%;
   
 
 }
 
 .find-us h2 {
     font-weight: bold;
+    font-size: 200px;
 }
 
 .find-us-contents {
@@ -219,10 +221,12 @@ footer {
 .contact-us-container {
 	width: 80%;
 	margin: 50px auto;
+    clear: both;
 }
 .contact-box {
 	background: #fff;
 	display: flex;
+    
 }
 		
 .contact-left	{
@@ -232,7 +236,7 @@ footer {
 .contact-right	{
     flex-basis: 40%	;
 	padding: 40px;
-	background: #1c00b5;
+	background: #3a3a3a;
 	color: #fff;
 }
 h1 {
@@ -270,11 +274,11 @@ h1 {
 	label {
 		margin-bottom: 6px;
 		display: block;
-		color: blue;
+		color:#3a3a3a;;
 		
 	}
 	button {
-		background:blue;
+		background:rgb(40, 168, 168);
 		width: 100px;
 		border: none;
 		outline: none;
@@ -282,10 +286,10 @@ h1 {
 		height: 35px;
 		border-radius: 30px;
 		margin-top: 20px;
-		box-shadow:0px 5px 15px 0px rgba(28,0,181,0.3);
+		box-shadow:0px 5px 15px 0px rgba(20, 20, 20, 0.3);
 	}
 	.contact-left h3 {
-		color: #1c00b5;
+		color: #3a3a3a;;
 		font-weight: 600;
 		margin-bottom: 30px;
 	}
@@ -356,7 +360,7 @@ h1 {
 
 
 
-@media screen and (max-width:992px) {
+@media screen and (min-width:992px) {
    
 
     .menu-item-image {
@@ -374,6 +378,8 @@ h1 {
         width: 125px;
         height: 125px;
     }
+}
+    @media screen and (max-width:950px) {
     #menu {
       clear: left;
       float: left;
