@@ -391,7 +391,8 @@ h1 {
     #cover-text {
         width: auto;
         height: auto;
-        margin-left: 30px;
+        margin-left: 100px;
+        text-align: center;
         clear: both;
     
     }
@@ -402,5 +403,6 @@ h1 {
         margin: 0 auto;
     }
     
+        
     }
-    
+ 
