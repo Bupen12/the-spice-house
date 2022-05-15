@@ -42,5 +42,45 @@ Responsive view
     - Images were used along with a description to illustrate the quality of food available at its price.
     - grid and flexbox used to create menu page.  
 
-    ![Menu Page](/assets/images/Menu%20page%20screenshot%20.png)
+    ![Menu Page](/assets/images/Menu-page%20screenshot%20.png)
+
+    ## Testing
+    - The website has been tested and works on different browsers: Chrome, Safari, Microsoft Edge.
+- All text can be seen clearly and isn't disrupted by another element.
+- All form inputs are required, except the 'leave message' as intended and the form send button works.
+- The home page is responsive on all standard screen sizes and functions correctly.
+
+## Validator Testing
+
+- HTML
+    - Official W3C validator returned with two  errors.
+- CSS
+    - Official W3C validator returned no errors.
+
+## Lighthouse Testing
+
+![Lighthouse Test for Mobiles](/assets/images/light-house-%20mobile-Screenshot%20(35).png)
+
+
+![Lighthouse Test for Desktop](/assets/images/light-house-testing-Screenshot%20(34).png)
+
+## Deployment
+
+- The site was deployed to GitHub pages by:
+    - Selecting 'Settings' in the GitHub repository.
+    - From the source section drop-down menu, select the Main Branch.
+    - This will then indicate that the project has been deployed successfully.
+
+The link for this project: https://bupen12.github.io/the-spice-house/
+
    
+## Credits
+
+
+
+
+- Social links code was used from Code Institutes Love Running Project
+
+- Icons used for social links are from Font Awesome
+
+- Images used were taken from Pexels.com and Pixabay.com
